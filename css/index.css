@@ -312,7 +312,6 @@ ul #listdivider {
 .enlace{
 	border:1px solid #888888;
 	padding: 10px 35px 10px 10px;
-	display:block;
 	background-image:url(images/flecha.png);
 	background-repeat:no-repeat;
 	background-position:right
@@ -321,4 +320,6 @@ ul #listdivider {
 .blink {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
+	-webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
 }
