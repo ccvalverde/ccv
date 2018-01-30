@@ -1,1 +1,0 @@
-importScripts("https://cdn.devicepush.com/sw/YTA2Zi0wMjE5LTA0NjQtYjk1M181YTE4MzgxMzg5MzAyZjExMmU0NGQwNTQ=")
